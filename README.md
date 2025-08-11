@@ -1,2 +1,3 @@
 # Builder-Score-Rewards-Program-by-Talent-Protocol
 Understanding the Builder Score Rewards Program by Talent Protocol
+Talent Protocol, a decentralized platform focused on professional reputation management within the Web3 ecosystem, has introduced the Builder Score Rewards Program to incentivize and reward developers, creators, and innovators who contribute meaningfully to blockchain ecosystems like Base and Celo. This article explores how the Builder Score Rewards Program works, its eligibility criteria, reward structure, and how it empowers builders to showcase their skills and earn recognition. 
