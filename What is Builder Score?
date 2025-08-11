@@ -1,0 +1,16 @@
+The Builder Score is a dynamic, numerical metric that quantifies a user’s reputation as an onchain builder. It aggregates verified data points from platforms like GitHub, Base, and other Web3 ecosystems to reflect both the quantity and quality of a builder’s contributions. The score is designed to highlight active contributors, distinguishing them from casual participants or automated accounts. It is uncapped, meaning it can grow as users add more credentials and contributions over time.
+
+The Builder Score is calculated based on three main categories:Identity: Verifying a user’s authenticity through platforms like GitHub, LinkedIn, ENS, or Farcaster. Achieving a “Human Checkmark” (score ≥ 20 in this category) confirms the user is a real person.
+
+Activity: Measuring engagement through hackathons, open-source contributions, or onchain transactions, such as deploying contracts on Base or Celo.
+
+Skills: Showcasing expertise through documented projects, coding contributions, or other professional achievements.
+
+The scoring system evaluates data points (e.g., GitHub commits, hackathon wins, or transaction history) based on:Value Conversion: Normalizing data (e.g., converting account age to years or applying a square root to transaction counts for fairness).
+
+Signal Strength: Classifying data points as weak (up to 8 points), medium (up to 20 points), or strong (up to 40 points) based on how strongly they indicate builder activity. For example, winning an ETHGlobal hackathon is a strong signal, while simply having a GitHub account is weak.
+
+Multipliers: Converting data points into a consistent score, though exact multipliers are not disclosed to prevent gaming.
+
+The final Builder Score is the sum of points from all evaluated data points, providing a transparent yet secure framework to assess a builder’s reputation.
+
